@@ -13,7 +13,7 @@
 
 <br />
 
-"Who is that pokemon" is a question-and-answer game which you have to guess what kind of Pokemon it is based on its shape. Test your knowledge with my guess the Pokémon quiz!
+¿Quién es ese Pokémon?» es un juego de preguntas y respuestas en el que tienes que adivinar qué tipo de Pokémon es basándote en su forma. ¡Pon a prueba tus conocimientos con mi cuestionario de adivinanzas de Pokémon! 
 
 <br>
 
@@ -44,7 +44,6 @@
 
 <div style="text-align: center;"> 
 
-![WhoIsThatPokemon](/pokemon-desktop.png?raw=true "Who Is That Pokemon")
 
 <br>
 
@@ -78,9 +77,9 @@ Once the dependencies are installed, you can to start the application.
 ---
 ## Contact
 
-Created by [@alexanderbenitezbracho-web](https://github.com/alexanderbenitezbracho-web)
+Created by [@Cwirek95](https://github.com/Cwirek95)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexanderbenitezbracho-web)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cwirek95)
 
 <br>
 
